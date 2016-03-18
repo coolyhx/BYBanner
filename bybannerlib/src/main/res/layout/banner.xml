@@ -18,9 +18,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            app:strokeWidth="3dp"
+            app:strokeWidth="0dp"
             app:radius="5dp"
             app:gap="10dp"
+            app:pageColor="#B6AFAF"
+            app:fillColor="#EEEBEB"
             android:padding="10dp" />
     </RelativeLayout>
 </merge>
